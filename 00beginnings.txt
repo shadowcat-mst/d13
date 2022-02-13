@@ -1,0 +1,266 @@
+I fucking hate on-sites. I mean, they're well compensated, sure, but they're
+also just a logistical aggravation especially given if clients could just
+learn how to build a bastion host so I could get into their systems remotely
+it would be cheaper for them and way less annoying for me.
+
+So it goes.
+
+This time I have to be at their datacentre at 1am (apparently I only get to
+touch the systems during official downtime) so it's currently 8pm and I'm sat
+in a truly terrible coffee shop in the pretentious part of London.
+
+Yes, yes, you might say "that's called London", but this place is called the
+Java Flow. basic ass hawaiian style volcano chic theme combined with coffee
+that's the epitome of premium mediocre. You do the math.
+
+On the upside, the salesboy I've set up for an ad-hoc meeting to kill time is
+pretty cute and while he's clearly been pre-gaming with something stronger
+than coffee my desire for him to be relaxed later means that fits my ad-hoc
+plan just fine, thank you very much.
+
+The conversation, on the other hand ... is about of the same quality as the
+coffee.
+
+"Look, mate, what your ... what your problem is ... is that you don't have
+ambition. You could make a mint if you worked for finance companies with your
+background. A mint, mate, a mint."
+
+"I'm sure I could. But I don't want to live here and I like being an
+independent consultant. Unfucking systems is fun."
+
+"Un-fucking?" he says, with an emphasis on the first syllable that makes the
+innuendo boringly clear.
+
+"Well, yes, I said unfucking *systems*, I never said anything about *people*."
+
+He blinks as he tries to process this. Why ... why are the pretty boys always
+possessed of the mental acuity of a chicken wing?
+
+"And anyway, you say I should have ambition. I've got to admit, I *do* like to
+get ahead. Which is, after all, why you're here and why I'd like to assure you
+that the hotel room my client's logistics people pre-acquired for me is
+absolutely fabulous."
+
+I doubt he got the "ahead" part but the fabulous hotel room thing seems to at
+least have got through. However, there's clearly a bit of a mismatch here so:
+
+"How about we grab one more coffee each and then I show you it? Yours is a
+double espresso, right?"
+
+The ensuing smile is glorious and I get a good feeling that the tour of the
+hotel room will be at least trending in that direction too.
+
+^Z
+
+... (not bad)
+
+fg
+
+It's a good job I don't feel the cold, this datacentre is predictably
+freezing. Government provisioned so there's no kill like overkill except
+when it comes to actually being organised.
+
+I'm still *intensely* annoyed though (admittedly sort of a default state for
+me, but really, this is egregious).
+
+Firstly, there are security camera monitors in here and the bloody things
+keep flickering.
+
+Secondly, this problem makes no fucking sense whatsoever.
+
+This is, roughly, a population database. But nothing matches up with anything
+else. Not in the usual "shitty data entry has meant things don't quite mesh"
+sense, in the "there is clearly a bastard pattern to this but I can't tell
+what it is yet" sense.
+
+I've been staring at this for over an hour now and I *know* there's a pattern
+here but none of my usual "what the fuck did they do to their data import
+code" tricks have worked and ...
+
+Wait.
+
+There's a bunch of surnames that keep repeating in the anomalous records.
+
+While this system is shut down from external use I can safely run some
+seriously brute force searches on ...
+
+So let's try this.
+
+One. Two. Three. Swearing redacted as I basically throw whatever I can think
+of at the data and spend the waiting time cursing that bloody flickering
+(what the fuck is wrong with their CCTV system anyway) and then.
+
+GENEALOGY.
+
+Every single mismatch is within a dozen or so family trees. I've no idea
+how to remediate the damn thing, because I've no idea how it went wrong ...
+but they can either figure that out themselves or pay me for a second
+engagement, because this is *not* the code bug I was paid to find, this is
+some sort of obscure bastard asshole of a data bug and that means it's in a
+different part of their system.
+
+I isolate all the relevant data into the scratch space they've provided me
+on this behemoth of a government IT nightmare, and check which is the first
+train out of this fucking city.
+
+^Z
+
+... (open first class tickets should be in your standard contract)
+
+fg
+
+Motherfucker.
+
+Getting the ass-crack-o-clock express out of King's Cross seemed like a great
+plan as compared to grabbing a few hours of kip in a disappointingly otherwise
+unoccupied hotel room, luscious or not. Totally was in terms of the not having
+to fight through the under-washed masses to get a train post-checkout.
+
+However.
+
+Early morning first class has a complimentary breakfast service thing and
+even complimentary supplied caffeine bearing beverages of choice, which is
+absolutely great if that's what you had in mind, but I was planning to go
+"hey, it's past six, I'm going to enjoy this nearly empty train and get some
+fucking sleep on the way back".
+
+Which. Well. There's always a fucking edge case, right?
+
+So, because english people and tea, every one of the complimentary breakfast
+service setups has a teaspoon. And even the most modern of modern british
+intercity train sets vibrates a bit when running at full speed.
+
+THE TEASPOONS ALL RATTLE WHEN THE TRAIN IS UNDER POWER.
+
+This whole "get some fucking sleep" plan is going to be a challenge.
+
+^Z
+
+... (but I do manage to doze somewhat anyway)
+
+fg
+
+OK, why am I awake? My alarm hasn't gone off yet, I'd been fading in and out
+but I'm suddenly straight up awake.
+
+The noise is wrong? No, the noise is nonexistant.
+
+What?
+
+This is a full speed intercity express, the noise (and teaspoon rattle
+inducing vibrations) should be basically contiguous, this thing isn't meant
+to stop until Preston, that ... ok, I'm half awake but I'm also fully
+confused now.
+
+This, of course, means we're slowing, which if there's a reason for it, sure,
+OK, and if there isn't a reason for it, sure BR, but it's still a trifle odd.
+
+*CRACK*
+
+... WHAT?
+
+... why is there a draft?
+
+I blink the sleep out of my eyes and try to figure out what the hell just
+happened - the UK rail system spent a truly stupid amount of money per
+passenger death or injury avoided on increased safety protocols so I'm not
+by default going to worry about risk to life and li-oh my.
+
+There is a HOLE in the WINDOW all of a few inches forwards of where I'm sat.
+
+Whatever the hell came through that would, by my back of the envelope
+calculations, if the train hadn't been slowing, have come through *me*.
+
+No fucking bueno.
+
+I resist the urge to move just yet and take a moment to check and, yep, the
+train engines haven't kicked back in so I think I'm just going to sit here
+and let the adrenaline spike settle before I try and plan a next move.
+
+^Z
+
+... (and the train gently rolls to a halt)
+
+fg
+
+*donk donk*
+
+*donk donk*
+
+Somebody's knocking on the window opposite me, quietly, quietly enough not
+to put me back into full adrenaline spike mode, for which I'm significantly
+appreciative but also kinda fascinated by.
+
+Looks like some rocker-ass motherfucker, and when I make eye contact, he
+raises his eyebrows at me and gestures to the end of the carriage, then
+starts very deliberately strolling in that direction.
+
+Well, fuck it, this is at least interesting. I grab the satchel with my kit
+in it (I believe the very model of the modern metrosexuals call it a
+messenger bag but it's still a fucking satchel) and wander to the end of the
+carriage.
+
+By the time I get there he's already hauled the door open and I can see open
+british rural flat fuck all out of it. Ok? Sure?
+
+"Pleased to meet you. You must be Stark. I'm Walker."
+
+"What?"
+
+"I mean, yes, but pleased to meet you nonetheless. This is an understandably
+weird moment but somebody *did* just try to shoot you in the head so I'm
+fudging on the formalities a bit here."
+
+"WHAT?"
+
+"Look, you already figured out where that shot would've landed if the engines
+hadn't -ahem- cut out. Wouldn't you prefer to get out of here?"
+
+"What." ... ... I think for a minute. "Actually, that doesn't seem like a bad
+idea, on the whole."
+
+"Excellent. I see you already have your kit. We just need to sort out one more
+thing."
+
+He roots around in a rucksack he's wearing and pulls out a pair of walking
+shoes.
+
+"I think these are your size? I had them sourced slightly larger than our
+guess because I figured that if we'd got it wrong they'd be better for long
+distance walking than the work shoes that go with that suit of yours?"
+
+I ... ... ... what. Wait. Hang on a ... you know what? Fuck it. Somebody just
+tried to shoot me. This dude seems to know what's what and I don't much want
+to stay on that train anyway.
+
+^Z
+
+... (the shoes fit pretty well)
+
+fg
+
+"So, I have to ask ... if they took one shot at me, why didn't they take a
+second after the train was slowing down predictably?"
+
+"Because they only got one shot because we had to be sure that's what they
+were planning to do."
+
+"You mean you *let* whoever it was take that shot at me?"
+
+"We did also sabotage the train so it missed. Information is important when
+attempting to diagnose a complex issue - and they were never going to get a
+second."
+
+"I ... am completely fucking lost here and also wondering if I should be
+completely fucking angry."
+
+"That's fair. But on the other hand we have another couple miles to walk to
+get to the nearest convenient pickup location, and it's a pretty decent pub,
+and if we keep making good time I'll have time to get you a pint while we
+wait for transit. Buy the round first, explain later?"
+
+"... you know, after the last few hours, fuck it, sure. Let's march."
+
+"... you're getting me a fucking whiskey as well as the pint though."
+
+^Z

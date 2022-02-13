@@ -1,0 +1,200 @@
+The drive is mostly peaceful, the windows are minimally tinted so I can see
+out any time I can be bothered but I have a pretty minimal sense of geography
+anyway so I mostly don't.
+
+In any case, once the surroundings fade from areas with more sheep than
+humans to motorway driving, while the occasional spot of landscape is
+admittedly pretty it's really quite bland compared to the day I've had so far.
+
+Plus, honestly, catching up on my various newsfeeds is a better distraction
+from the sheer level of WHAT THE FLYING FUCK that's still resonating through
+my head after unexpectedly getting nearly shot, semi kidnapped, and then
+unceremoniously but politely temporarily recruited.
+
+... no, don't be silly, I'm not using one of my devices to do that, those are
+faraday bagged in the boot of the Range Rover we're traveling in, but the
+loaner tablet I'm using is perfectly reasonable and the vehicle's wifi is
+more than sufficient for my current meager purposes.
+
+I did consider asking how the uplink had been rendered suitably secured that
+such an affordance was even allowed, but then figured that since my not being
+dead was a pretty clear proof of competence on Walker's part I'd really rather
+just soak in the more trivial parts of the internet for a while, so instead I
+sit back, relax, and enjoy the drive.
+
+^Z
+
+... (I'm alive and my cat's going to get fed, and that's not nothing)
+
+fg
+
+"Stark."
+
+I startle for a moment, and then realise we're pulling in to an underground
+car park.
+
+"Oh, huh."
+
+"Yep, we're here."
+
+"Ok, Walker, but with all due respect ... where actually is here?"
+
+"Here is the car park."
+
+I glare and then crack the hint of a smile as the landy pulls into a parking
+bay. Apparently getting to zone out for the drive has done whatever subset of
+my brain is currently firing on cylinders the world of good.
+
+"So, we're going to leave your kit in the back for the moment, I'll have
+somebody check it over for gremlins and bring it up, but in the mean time,
+how about we go get you set up in the office?"
+
+"Office? ... Wait, no, obviously there's going to be an office, I swear I
+have an above room temperature IQ on a normal day."
+
+"Don't worry, Stark, there'll be coffee."
+
+^Z
+
+... (why does the lift button he hits have a picture of a giant rabbit)
+
+fg
+
+Reception is ... bog standard business park corporate style, looks like
+almost every on-site client I've ever dealt with. Receptionist is ... she's
+smartly dressed, articulate, and delightfully solicitous in supplying me
+with pretty damn decent filter coffee while I wait a few minutes.
+
+It occurs to me that Walker being Walker she probably already knows there's
+no risk of me hitting on her, but right now that's far more convenient than
+it is annoying, and the coffee is exactly what I needed so fucked if I care.
+
+Either way, I only have time to inhale one decent sized mug of the stuff
+before he comes back and walks me in through the main door and into a
+meeting room. Which is ... also bog standard, this place is fucking cookie
+cutter but then again under the circumstances I wouldn't want to stand out
+either so yeah, fair game.
+
+Walker slides a set of papers across the table to me and drops a pen in the
+centre of the table between us.
+
+"Contract. Read, check, ask me any questions you need to, the sign, please."
+
+Then he sits back, mind clearly gone elsewhere, and leaves me to peruse.
+
+^Z
+
+... (wait, this is my standard contract ... with 1.5x the usual day rate ...)
+
+fg
+
+I look up at him and raise my eyebrows.
+
+"Look, firstly, I obviously have the budget for this. Secondly, it'll leave
+a completely traceable paper trail so this doesn't disrupt any future plans
+you have. Thirdly, check the employer."
+
+"Pendulum Personnel?"
+
+"They ... exist. But not in any way traceable to us."
+
+I look a second time.
+
+"Wait ... what the fuck is *Accenture* doing on here?"
+
+"Pendulum's client of record."
+
+"But they're a bunch of fucking idiots."
+
+"What they are, for our current purposes, is a giant consultancy that
+regularly subcontracts anything involving actual competence ... that also
+has a reputation such that if somebody tries to trace things from us to you
+or from you to us nobody will be at all surprised if they've lost the
+relevant paperwork and can't tell them anything."
+
+Ah.
+
+That's ... not a bad idea, actually.
+
+I reach for the pen.
+
+^Z
+
+... (the badge he hands over says both Accenture and Cuniculture Computer
+Consulting ... ok then?)
+
+fg
+
+Formalities complete, badge clipped onto my shirt pocket, we proceed down
+the hall to another part of the office.
+
+Notable that one thing that isn't exactly cookie cutter is the prevalence of
+private offices rather than open plan nightmares, but I guess I'm currently
+the guest of an organisation that actually has incentives to provide their
+staff with a modicum of privacy for once.
+
+In the office that's apparently our destination, a sharply dressed blonde man
+in a suit sits behind a desk. Not exactly my taste, but both the physique and
+the sheer physical presence are impressive nonetheless.
+
+Honestly, Walker's scruffiness is starting to seem almost out of pl-
+
+"Director." He nods respectfully to Walker.
+
+"Samson."
+
+Walker turns slightly to adress me.
+
+"Mr. Stark, I'd like to introduce you to Mr. Samson, our COO."
+
+Samson stands up from behind his desk and gives me a handshake that feels like
+it's only not physically painful because he's made a point of restraining
+himself.
+
+"New tech analyst. Good."
+
+"Well ... possibly? Or at least temporarily" I hedge.
+
+"Sure. I'd love to introduce you to our CTO, but he's currently abroad helping
+half a dozen friends of ours with a nasty driver issue. However."
+
+He sits back down, pulls a key out and unlocks a desk drawer.
+
+"Laptop. Standard issue, already approximately keyed to your biometrics based
+on fingerprint dusting of your apartment, you'll need to re-enroll it properly
+before you get network access."
+
+The machine he hands over is ... basically exactly what I'd normally use
+except it looks ruggedised and I'm pretty sure it's a model up from what I
+left down in the car park before they did whatever the fuck to it, and I'm
+sufficiently distracted by the sheer elegance of the machine that I barely
+register the biometrics comment.
+
+Then shrug it off because, honestly, IT security protocol being paranoid to
+the point of creepy is probably the single least weird part of my day so far.
+
+"Appreciated. What am I looking at?"
+
+"Today? You're half awake and somebody nearly killed you earlier, how about
+you get the machine bedded in, make sure you can connect to the local compute
+cluster, then do whatever local customisations the security profile will allow
+and call for a driver to your hotel for tonight?"
+
+... I take a moment to process this as being, honestly, entirely sensible.
+After the morning I've had, I don't think I'd trust my own results as worth
+shit but it's a pleasant change to be working with somebody who can actually
+figure that out on their own.
+
+Walker is lounging against a wall off to one side, and I'm pretty sure he just
+noticed my body language and is quite enjoying my surprise, the bastard.
+
+"I ... sure. That doesn't sound like a bad idea at all."
+
+Walker leads me out and down the hall to an empty office, makes sure I know
+where the power points are and explains the desk phone responds to 9 for
+reception, then leaves me to get set up.
+
+^Z
+
+... (shortly after which I notice there's another mug of the decent coffee
+sat on the desk ... always be nice to the receptionist, people)

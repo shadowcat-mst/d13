@@ -1,0 +1,209 @@
+Acceptable business hotel via Landy, driver taciturn as ever, meal and a
+couple of drinks via room service (on my new employer with the understanding
+room service was rather a condition under the circumstances), followed by an
+acceptable night's sleep.
+
+^Z
+
+(acceptable given the circumstances, at least)
+
+fg
+
+I arrive at the office having enjoyed a pretty decent fry up for breakfast
+and a similarly silent lift back in. Same receptionist, happily.
+
+"Good morning, Mister Stark"
+
+"Good morning, is the coffee on? Yours is way better than the hotel's"
+
+She beams at me, which in spite of my statement being entirely true is a
+little bit too much cheerful for this early in the morning.
+
+"Here's a mug, the Director will be with you shortly"
+
+Happily, 'shortly' is sufficient to decrease the amount of blood in my
+caffeinestream so I'm a bit more capable of conversation by the time Walker
+show up.
+
+"Stark"
+
+"Morning"
+
+"Ready to get to work?"
+
+I raise the mug and nod.
+
+"While you were taking an entirely necessary moment to chill, I ... convinced
+... your last client to pull as many system logs as they could think of for
+the machine you were using as a scratch monkey for your analysis work."
+
+"Oh?"
+
+"Somebody must have taken your resulting data set. I need to know who."
+
+I blink.
+
+"Ok, look, Stark, I am very much aware this isn't entirely your area, but
+while I know the difference between sudo and SQL my current career rather
+distracted me from my old one, my specialist is overseas, and this is
+probably going to turn out to be annoyingly time critical."
+
+"Can you not ask a proper security forensics company to look at it?"
+
+Walker grimaces.
+
+"We are not a substantive organisation and I've not previously been in a
+situation where something time critical came up and I didn't have my
+specialist to hand. I have people vetting companies we could probably send
+a job like this to but frankly I completely failed to plan for this and right
+now you're the least worst option to hand."
+
+"I'm ... not sure I'm an option in the first place."
+
+"As soon as I get somebody more suitable vetted, I'll be happy to hand the
+job across and let you off the hook. Until then, you have a contract, a
+laptop, unlimited access to the office coffee machine, and nothing better to
+do while enjoying those privileges, no?"
+
+... ... ...
+
+"Don't get your fucking hopes up ... but sure, I'll try."
+
+"Right. Same office as yesterday, tell me if you find anything."
+
+^Z
+
+(no, I did -not- start work immediately, that required two more coffees)
+
+fg
+
+Right.
+
+So.
+
+I have a set of data involving every outside system that talked to the one I
+was working on.
+
+I have access to a pretty healthy bunch of servers for running data crunching
+jobs on.
+
+I also have no idea what the hell I'm looking for.
+
+Just another day at somebody else's office.
+
+Though ... aha, the data I've been given does actually include my own results.
+Which gives me an interesting idea, and I throw a speculative query program
+at the compute servers on the off chance before getting into the hard work.
+
+^Z
+
+(insert six hours of trying to figure out what the hell happened involving
+copious swearing here ... no, you don't want to know, yes, I forgot lunch)
+
+fg
+
+Oh, shit.
+
+I've found the machine that performed the attack.
+
+It's a random fucking cloud server for a company with absolutely no possible
+relationship to the actual problem at hand.
+
+And I can't hack in the 'offensive security' way worth shit.
+
+SHIT.
+
+Ok, ok, I can explain this, but I'm not going to enjoy doing it.
+
+I stare at the screen, desperate for any way to procrastinate the required
+"yes, I tried, but I did not in fact succeed" conversation, and realise I
+can buy myself at least two minutes by checking in with my job from earlier.
+
+... wait ... did I actually get this lucky? ...
+
+My speculative query found a match.
+
+PAYDIRT.
+
+^Z
+
+(I may have been sufficiently hyped talking to the receiptionist that she
+suspected I'd had more coffee than was strictly good for me)
+
+fg
+
+"IT WAS STOLEN BY FUCKING MERCENARIES AND I'VE FUCKING FOUND THEM."
+
+Samson gives me a withering look for my unprofessional mode of address.
+
+Walker just looks at me and says "Oh?"
+
+"The data's up on an online dark market. Cryptographic hash matches. The few
+lines they've released to prove it's real matches."
+
+Walker frowns.
+
+"Yes, look, the lines they've released correspond to real people and that's
+probably not going to be great for those real people but until somebody
+actually pays them the couple million they're asking for it, the entire rest
+of the data set is probably safe from the vivisectors."
+
+Samson looks like he's about to interject, so I explain: "This is a market
+for specialised and unspecialised sorts of personal data - main sort is stolen
+credit card data with enough information attached to make a decent job of
+using them without triggering fraud protection. Sales are generally one shot."
+
+The room goes silent for a few seconds, and then Walker speaks.
+
+"So ... there's a chance we could pre-empt the sale?"
+
+"We're going to have to do it the hard way - contact them directly - I am far
+from capable of tracking them down ... but. Yes. Finding a way to just make
+their asking price would be easiest, but yes, there's definitely a chance."
+
+"That's the best news I've heard all day."
+
+Samson comments: "Director, I'm not sure the discretionary budget would run
+to two million."
+
+The tone of his voice suggests that 'not sure' may, in fact, be an
+understatement.
+
+"This is entirely possibly an issue, but how about we mint Stark a clean
+identity and he contacts them and we try for an exchange meetup in person?"
+
+"Director?"
+
+"We already know how to find the idiot who tried to kill Stark," (WHAT) "so
+we can see if they want to clean this up the easy way ... if not, I guess
+Stark and I are going into the field."
+
+"Director!"
+
+"Mister Stark, please could you go back to the office you were working from
+while Mister Samson and I discuss contingencies?" Walker pulls a key out of
+a pocket and adds: "Bottom left drawer."
+
+The raised voices I can hear before I'm five yards down the hall strongly
+suggest that the contigencies in question may be something of a point of
+disagreement.
+
+^Z
+
+(the bottom left drawer of my desk turns out to contain a glass, mineral
+water, and a bottle of Talisker)
+
+fg
+
+Half an hour and several drams to steady my nerves later, Walker drops by my
+office to provide me with a clean online identity and instructions to arrange
+the meetup for late tomorrow.
+
+I suspect Samson does not approve of this plan.
+
+Between the Talisker, the lives at risk, and how much I miss my cat, I am
+perfectly comfortable not caring whether he approves or not.
+
+Half an hour after that, Walker and I have a date for tommorow night.
+
+^Z

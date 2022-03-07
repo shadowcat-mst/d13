@@ -1,0 +1,212 @@
+"Good morning, Mister Stark."
+
+"Good morning."
+
+"Coffee?"
+
+"I would be most appreciative, ma'am."
+
+She grins and a mug materialises in quick order.
+
+"I hear you have a busy day."
+
+"I can't say I'm yet sure how busy, but yes, you might say that."
+
+"Then I'll wait to page Walker until you're ready for a refill."
+
+^Z
+
+(I think I might like it here)
+
+fg
+
+A few minutes later, back in what I'm now starting to think of as -my-
+office (and no, I'm not sure if I find that weird, that's something to worry
+about later) Walker has settled in the chair on the other side of my desk and
+it appears to be time to prepare for deployment.
+
+"So, Stark, the people on the other end are presumably wanting untraceable
+instruments."
+
+"Inevitably. We can use escrow systems to give us a certain measure of
+control over that, but only a certain measure."
+
+"I assumed. Here."
+
+He hands me a piece of paper.
+
+"This is?"
+
+"Details for an account containing a little over two million - a little over
+in case of conversion slop, but do try to spend it correctly the first time."
+
+"What."
+
+(WHAT)
+
+"Your employment history as I understand it indicates that you've had more
+than enough opportunities to do stupid shit with other people's money and
+never have. Under the circumstances there are a lot more factors involved in
+this situation that are actually worth me worrying about."
+
+"You actually got the two million? How?"
+
+"Well, I could tell you that, but then ..."
+
+"... Samson might kill us both instead of just you, and as such I retract the
+question."
+
+Stark grins and then grimaces.
+
+"Most perceptive."
+
+"Right, so I get this set up and make sure we have hardcopies of the relevant
+details and there's nothing left on the machines. How long do I have?"
+
+"It's ..." Stark glances over at a wall clock "... close to ten, and we ride
+at four. That long enough for you to be as confident as you can be you got
+this right?"
+
+"I confess I'm a little troubled about how confident that's going to be, but
+yeah, I can get you a best effort in that time - don't be surprised if I
+spend the next three hours on search engines double checking my working."
+
+"I wouldn't have it any other way. Good luck, Mister Stark."
+
+He gets up and walks out.
+
+I take a deep swig of my coffee and wonder if I'm allowed to use my extra
+desk drawer key again to keep me company.
+
+^Z
+
+(double checking would be an understatement, but by three o'clock I'm fairly
+confident I've done the best I can given the circumstances)
+
+fg
+
+Stark shows up again within five minutes of my asking reception to page him
+and drops back into the chair.
+
+"Ready as we're going to be?"
+
+"I have the money shifted into suitable assets, and all the keys sat on here
+and on your compute cluster. I'd much prefer we printed out as many copies
+as you felt suitable before we destroyed the originals, and I don't know the
+best way to do that securely in here."
+
+"Ah. Three, I think, one each to carry on site and one to go in a safe here."
+
+"With respect, how about we have the on site copies missing a few digits and
+keep those in our head? I'm sure we can both remember those for the evening."
+
+Stark stops to think for a few seconds.
+
+"Agree, and let's also make them different for each of us. More fun for anyone
+trying to be clever that way."
+
+"Good plan, sir."
+
+(sir? SIR?! ... at least he doesn't make any acknowledgement of my linguistic
+slip)
+
+"Right, jot the file id onto a piece of paper for me and I'll arrange it."
+
+I do so, writing it out once, then turning over the piece of paper and writing
+it out again as a poor man's checksum. I think I notice him nodding in my
+peripheral vision as I do so.
+
+"That sufficient?"
+
+"Yep, thank you Stark, go grab yourself another coffee and I'll see you at
+reception at five to four."
+
+I lock my laptop and we both exit stage left on our respective errands.
+
+^Z
+
+...
+
+fg
+
+The driver's already sat in the Landy when we get there, and hands us two
+slips of paper each.
+
+Then pulls out a lighter and incinerates both of the PIN style slips in front
+of us once we're done memorising them.
+
+Then it's time for a drive.
+
+^Z
+
+...
+
+fg
+
+"I've got to ask, Walker, why are we driving into London of all places?"
+
+The driver answers first.
+
+"Because I'm your escort and this has bullet proof windows and as you may,
+just, have noticed, sir, your average train does not."
+
+"Ah."
+
+Walker stays silent as I sink back into my seat to contemplate this point,
+then a few seconds later roots under his seat and comes up with a thermos.
+
+"Forgot to hand you this as we headed out. Compliments of Ms. Wei."
+
+Who?
+
+I open the thermos and take a swig.
+
+It's ... hot damn, it's really good irish coffee. That tastes like Talisker
+and then under that ...
+
+Oh! Now I know what the receptionist's called.
+
+"Do give her my compliments in return as and when convenient, sir."
+
+Stark grins.
+
+"Absolutely. And be a little careful with it, please, I don't want you tense
+but there's a difference between compos mentis and compost mentis and the
+latter would also be suboptimal."
+
+I blink and fix him with a look.
+
+"I did have a sniff, Stark, I know what she's like."
+
+^Z
+
+(I sip judiciously as the Landy works its way through the fading afternoon)
+
+fg
+
+The less said about London traffic, the better, but eventually we pull up
+on a nondescript street in a nondescript area.
+
+"Am I coming in with you, sir?" says the driver.
+
+"Not at all, circle a couple of blocks out and wait for my signal."
+
+"... very well, sir."
+
+He doesn't sound entirely happy about this, but also somewhat resigned. I
+have a growing suspicion that working for Walker is just like that.
+
+"Well, come on then, Stark, you know where we're going."
+
+We decamp from the Landy, find the nondescript door in the nondescript
+building, and I punch the code I've been given into the nondescript lock.
+
+"I'll be going in first, Stark."
+
+"Well, then, after you, sir."
+
+(... I give up)
+
+I pull open the door and it's time to find out.
+
+^Z

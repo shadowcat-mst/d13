@@ -47,7 +47,7 @@ fg
 "Oh, good, here's your hotel. Room service will get you a couple of doubles
 to help you sleep, don't bother setting an alarm."
 
-He passes me the thermos before continuing.
+Walker passes me the thermos before continuing.
 
 "You might like that for the morning, don't imagine breakfast will be so
 enticing. Call for pickup when you're ready to come in."
@@ -68,9 +68,9 @@ She beams.
 "Good afternoon, Mister Stark. Just let me page the Director and I'll get you
 a mug."
 
-He arrives about the same time my coffee, hands me my laptop, and then leads
-me through into a room I've yet to see - one with plentiful space and a huge
-screen along one wall.
+He arrives about the same time as my coffee, hands me my laptop, and then
+leads me through into a room I've yet to see - one with plentiful space and
+a huge screen along one wall.
 
 Walker does not, to be honest, look to me like he slept at all.
 
@@ -203,3 +203,5 @@ from him.
 "Done, Stark. Welcome to british military intelligence, section 13."
 
 ^Z
+
+(... --- ...)

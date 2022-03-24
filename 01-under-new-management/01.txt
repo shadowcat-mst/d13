@@ -1,0 +1,196 @@
+Godsdamn it, cat, it was only four days, you do -not- need to be -that-
+needy.
+
+... ok, fine, I can be late.
+
+^Z
+
+(anyway, I now have Department grade coffee at home, so it taking a few
+minutes more to call for my ride in will not, in fact, make me ready to
+work usefully any later than on previous days)
+
+fg
+
+"You're late."
+
+The woman glaring at me has angular cheekbones and piercing blue eyes.
+
+"I'm sorry, ma'am, but my c-"
+
+"Call me ma'am again and I'll have Samson rip one of your legs off. My name
+is Holt."
+
+"Stark."
+
+"Do you have a first name, Mister Stark?"
+
+"Do you have a first name, Mister Holt?"
+
+"Yes. Now answer the question."
+
+"Joseph."
+
+"Ekaterina."
+
+"May I go back to calling you Holt now?"
+
+She narrows her eyes for a moment, then visibly relents.
+
+"Very well, Stark."
+
+"I presume this means that you're my new line manager?"
+
+"For my sins."
+
+"Well you certainly don't look likely to tan."
+
+... I mentally wince because I probably shouldn't've said that, but
+fortunately for my odds of survival she blinks and then gives a short,
+somewhat bitter laugh.
+
+"That wasn't bad, but don't make me like you, Stark. Stephen has been
+throwing people at me periodically without properly warning them for a while
+and it's almost unseemly at this point."
+
+"You mean I have colleagues?"
+
+"No. I mean you -had- colleagues."
+
+I take a swig of my (non adulterated, mind you) coffee to cover up my
+awkwardness at this response and she continues.
+
+"I've been with the department since the beginning - since it was just Stephen
+and I - and you are far from the only electrokinetic to hatch since. But you
+are the only one I know of who isn't dead."
+
+"Fuck. I'm sorry." (what else is there to say)
+
+"Good. Be sorry by making sure I don't have to attend your funeral as well."
+
+"I ... ma'am - shit - Holt - if nothing else, I pretty much have to make sure
+of that because frankly it would probably be a violation of the Geneva
+Convention to make anybody else put up with my cat."
+
+This time she only almost laughs. I don't honestly blame her.
+
+"Anyway, first order of business, you're going to take over as much as
+possible of the mundane side of our departmental work from me."
+
+As I start to open my mouth, she holds up a hand to pre-empt me.
+
+"Don't worry, I don't mean desktop support, our machine images are solid and
+our users aren't idiots or Stephen would've put them out on their ear already.
+But our opsec isn't free and you've had plenty of practice at herding cats,
+so you just volunteered to be an architect and project manager."
+
+"I'm sorry?"
+
+"We are also Cuniculture Computer Consulting. At least occasionally we do
+actually have to do some computer consulting, and to preserve the facade that
+means doing the primary co-ordination aspects in house even if we do drop
+ship the vast majority of the actual work to Romania."
+
+"Romania?"
+
+"Of course Romania, the developers there are a budgetary rounding error and
+they do fantastic work. Ours are mostly in Cluj, hence why the rabbit on the
+door is a Transylvania Giant - no, Stark, don't ask now, you can look it up
+online later, it'll be just as edifying and you get to look at pictures of
+cute giant bunnies on work time - but there needs to be an interface layer
+and I've been away for a week so you can image what the relevant inboxes
+look like by now."
+
+"Ah." ... I think how to phrase the next part ... "On the upside, this might
+be the first task I've been given in this place where I wasn't out of my
+depth, and if I need to suck some cock to get clients back on side, that's
+hardly outside of my skill set either."
+
+Holt gives me a look.
+
+"I'm aware." ... I brace for a comment I'd rather not hear ... "Stephen showed
+me your resume."
+
+"Fair enough. Where do I start?"
+
+^Z
+
+(that ... was intense)
+
+fg
+
+Well, this is a shitshow.
+
+I now apparently have access to the full set of mundane work project
+management, ticketing, and source repository tools, plus a link to internal
+IM to Holt that I'd really rather not use just yet.
+
+It's not a -bad- shitshow, as such, just the inevitable result of one
+overworked mostly-human juggling a dozen plates at once compounded by the
+entropy inherent in their not being available for a week on short notice.
+
+I take a deep swig of my coffee and get stuck in.
+
+^Z
+
+(no, I am not going to offer a play by play, I might be good at the project
+management side of things but it's -deeply- boring even on the best of days)
+
+fg
+
+Somewhere around three in the afternoon, Ms. Wei opens my door, takes three
+quick steps across the room, drops a paper bag on my desk, and is gone just
+as quickly without saying a word.
+
+Five minutes later I suddenly realise that it smells really good and now I'm
+really hungry and the contents turn out to be a bacon, brie and cranberry
+baguette and if that means that as a part of his prep work Walker also had
+somebody snoop on my lunch orders this is really not the time to argue.
+
+I wolf it down with great pleasure, and get back to the grind.
+
+^Z
+
+(ticket triage and highly professional cocksucking continues)
+
+fg
+
+By around six, I've got things at least somewhat under control, plus sent
+a summary of questions email to Holt of all of the things that I'm still
+horribly unsure about.
+
+She wasn't kidding about the Cluj crew being excellent though, and the
+Transylvania Giant is absolutely gorgeous.
+
+I go back to writing a set of long form replies that mostly come down to
+"we're working on it, here's a bunch of waffle that makes it clear we're
+working on it, we'll be giving you a more specific update as to expected
+completion date shortly" (which basically means that I've inferred the waffle
+from what the developers have told me and am now waiting for them to reply
+to more pointed emails asking for the sort of precise updates that developers
+hate giving and therefore I have to ask for specifically) and just as I get
+close to done a reply comes back to my questions email and a minute or two
+after that a carrier bag lands on my desk with a thud.
+
+I look up.
+
+Holt gives me a feral grin.
+
+"Grab bag of chinese, Stark, not sure what your taste is, eat whatever you
+like while you're reading the email I just sent you and then get home to
+your cat."
+
+"Wha." (I'm so articulate when I'm interrupted from work fugue mode)
+
+"It's seven thirty. You got here at ten. You've got more done today than I
+would have done in two even if I hadn't had to brief Stephen on my overseas
+adventures. Eat. Read. Then go home. That's an order, Stark."
+
+She turns and stalks out while I'm still trying to process this.
+
+^Z
+
+(naturally the cat was grumpy right up until I started trying to pour a drink
+and then was insufferable until I sat down and made my lap available ... I
+can, on the whole, live with this as an evening)
+
+(... Stephen. Huh)

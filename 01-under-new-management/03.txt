@@ -1,0 +1,129 @@
+"Yours, I believe?"
+
+I'm sat in the room with the TV wall again. No wolfmen this time, thankfully,
+just a scowling Holt and Ms. Wei taking notes.
+
+The screen shows four men sat at a table, Walker and Samson on one side, two
+Eton suits I don't recognise on the other.
+
+Of course, Samson also looks like an Eton suit, but one whose musculature
+comfortably exceeds the other three put together - and his seems better fitted
+to me, which makes a fascinating contrast to Walker's Metallica T-shirt with
+an unbuttoned dark blue shirt thrown over the top.
+
+I stifle a laugh in my coffee mug as I realise that our Samson has the
+shortest hair at the table.
+
+... meanwhile, the Eton suits are looking closely at the screen of a laptop
+that Walker just rotated to show them, and both giving their best poker faces
+as they study it.
+
+"It is?" says one of the suits.
+
+"You wouldn't be here if it wasn't."
+
+"We're here because you made an unauthorised intrusion into a top secret
+government system, and we'd be delighted to hear your reasoning therefore."
+
+Walker leans back in his chair and puts his hands on the table, face up.
+
+"One of your red team, in their infinite wisdom, decided to run an attack on
+our systems." (the suit raises an eyebrow) "As such, my team intercepted and
+neutralised the threat." 
+
+I barely avoid choking on my coffee, and both Eton suits look like they're
+about to choke on theirs.
+
+"I'm sorry?"
+
+Walker smiles. Not in a particularly friendly way.
+
+"Allow me to be a little more clear. You are the British government's SIGINT
+service. Five is the Security Service. Six is the Secret Intelligence Service.
+The DIA is the Defence Intelligence Agency. We ... are responsible for non
+human threats to national security."
+
+"Non what?"
+
+Walker clicks his fingers and one wall of the conference room they're in lights
+up with a picture of one of the wolfmen.
+
+(not one of the ones I've met, mind, and I have no idea whether it's simply a
+different one or an interpolation from half a dozen real candidates, but)
+
+The suits stare.
+
+"See, people like this" (Walker gestures expansively) "really aren't your
+field of expertise, and that's fine. But they are mine."
+
+Walker sits up straight and fixes them with a thousand yard glare.
+
+(I'm mostly too busy watching but I think Holt almost smiled)
+
+"As such, we are British Military Intelligence, Department 13, and I would
+vastly appreciate it if you didn't make the mistake of interfering with
+our operations in future."
+
+The Eton suits keep their poker faces pretty well, but there's just enough
+body language tells to suggest that they're a tad surprised by this
+eventuality, and it takes a few seconds before the senior suit responds.
+
+"I see. Could you see clear to returning our data?"
+
+"Of course - as I said, we only came by it in the first place due to an
+unexpected attack on our systems of unknown provenance, after all."
+
+"We will, of course, have to operate on the assumption that you've retained
+a copy."
+
+"I don't believe I accused GCHQ of being stupid. I'd just vastly prefer that
+we both concentrated our efforts on actual threats to the Crown going
+forwards."
+
+"I see."
+
+Walker stretches, and Samson shifts minutely in his chair, and I have a
+feeling that the real point of the meeting is about to start.
+
+"So, a copy of all of this data is already on its way via secure courier
+back to your headquarters - before this meeting even started, since I was
+confident of your professionalism - and while I entirely agree that you can't
+trust me to do so, I do intend to wipe it once you've confirmed receipt.
+
+"Meanwhile, we already have handshake co-operation agreements with Five, Six,
+and DIA - I'm sure if it weren't for them vouching for us you wouldn't be here
+after all - would you be interested in a further demonstration of good faith?"
+
+Junior Eton suit looks like he's salivating.
+
+Senior Eton suit sits back in his own chair and thinks about it.
+
+"You know, I think such a thing might be in the interest of both of our
+services."
+
+"Exactly my thought." says Walker, and the TV screen goes blank.
+
+I guess that means we're no longer invited to observe.
+
+After a few moments, Holt stands and stalks out of the room ... and Ms. Wei
+dons earbuds pulled out of a pocket, plugs them into her laptop, and carries
+on typing.
+
+I take this as a cue and head back to my office where mundane duties await.
+
+^Z
+
+(hardly just a receptionist then, though by this point I can't say I'm
+remotely surprised by this)
+
+fg
+
+Happily, it appears that after yesterday's alarums and excursions, Holt has
+seen fit to leave my access to the compute cluster intact this time, so I
+spin up an independent resource slice on there and start installing things I
+expect to make my project management efforts go more smoothly.
+
+I am, I confess, momentarily tempted to see if there's still a copy of GCHQ's
+data on there but if there's analysis to be done of that, I fully imagine that
+it'll already be in hand, and I'd really rather not have my cluster access
+Holt and Catch Fire a second time.

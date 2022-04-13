@@ -1,0 +1,189 @@
+"Welcome to day two, Stark. You already proved you have the talent by
+ripping that system to pieces while morons were trying to shoot at you. Now
+you have to figure out how to repeat that."
+
+"What?" (Holt already told me not to call her ma'am, I'm not being
+unprofessional here, merely utterly fucking lost)
+
+"I've revoked all your access to the department's compute cluster. Keep
+doing the project management side to the level of competency that you already
+have. Then tell me when you get back in."
+
+Well, bollocks.
+
+^Z
+
+(I'm still not giving you a play by play of the project management side
+because it's still fucking boring, suck it up, buttercup)
+
+fg
+
+I'm sat staring at my laptop.
+
+It's a lovely laptop.
+
+It still isn't going to let me in to the compute cluster.
+
+Those systems are really nice, and I -want- my access back. and damn it.
+
+So I keep staring, trying to summon the state of mind that let me drive
+through walls and systems and connections, but it's not a thing right now.
+
+Fine then. Back to the ticket queue, I guess.
+
+^Z
+
+(it's shorter now and the Cluj crew are genuinely good at begrudgingly
+answering my questions, if this was a normal job I'd be pretty happy about it)
+
+fg
+
+It's 3pm, Ms. Wei left a sandwich in front of me without my noticing an hour
+ago that lasted about ten minutes before I wolfed it, and I might actually
+be considering writing some code but something is bugging me and I genuinely
+don't know what.
+
+I'm handling some data from one of five's external sources and that part's
+not a problem, I'll forget anything I read an hour after I've sent the
+analysis off, but something is fucking bugging me anyway.
+
+It's like a tickle in my brain, an itch, something I can't reify but can't
+dismiss either, and it's getting on my fucking nerves.
+
+I keep crunching on with my work but it's getting increasingly harder to
+concentrate and that's just aggravating because even if we exclude the
+"what the fuck actually happened to me again?" thing I actually quite like
+this gig and
+
+Oh.
+
+Custom logging shows a bunch of access attempts to my laptop.
+
+Oh. Oh Shit.
+
+And the rage rises.
+
+^Z
+
+(no, I still can't explain this, but I just lost my temper and)
+
+fg
+
+I am Stark. I am the machine. I am both, and I am annoyed.
+
+Pitch black universe. Stars. Instants of light traveling between the stars.
+This is everything and also this is pure information and this is nothing.
+Something is reaching out to my laptop, poking it, prodding it, trying to
+get it to reply in a way that would be useful to them and now I am beyond
+annoyed, I am actually angry and
+
+I am somewhere in a space full of stars, and I see the origin of the problem
+and I dive towards it, spreading wings of fire, and I smile and
+
+I am inside the place where this originated, and I tear around, destroying,
+shredding, burning, and then I come back to myself and I remember my job and
+
+I own this space. It was meant to hurt me, but now it belongs to me.
+
+I take everything that's left, one piece at a time, and send it home.
+
+Home?
+
+My laptop isn't nearly going to be able to store this much - oh, right.
+
+I blow through all the safeties in a split second and expose the department
+compute cluster's raw disks for maximum storage capacity and then I stream
+everything.
+
+Every byte, every running program state, everything about this place that made
+the mistake of attacking me, every single data point floods back across the
+link, through my mind, and etches itself into the department's disks because
+I am enraged but I am a consultant's sort of enraged and that means you record
+absolutely everything.
+
+Then, once every single thing, every byte of their heart is written into a
+department machine, then I let myself run free.
+
+Then everything, and I do mean everything, fucking burns.
+
+Then I pass out.
+
+^Z
+
+(I dream of binary worlds, green on black, and of fire)
+
+fg
+
+I wake, slowly, to the scent of Talisker and Ms. Wei's excellent coffee.
+
+Holt glares at me.
+
+"What the fuck did you do, Stark?"
+
+"Give me a moment, please."
+
+I take a deep draught from both of the drinks in front of me, because frankly
+I need it. (a small part of my brain notices that Walker is leaning in one
+corner of the room, his arms folded behind his back, but really, let me drink
+before you expect me to have a coherent opinion about anything)
+
+"So?"
+
+Yeah, Holt is never going to be manager of the year but she does know how to
+get to the point.
+
+"I noticed an attack against our systems and intercepted and neutralised it."
+
+"GCHQ are fucking screaming over agency comms that they've just had months
+of data wiped and they're out for blood."
+
+Oh, hey, the caffeine's kicking in. I probably shouldn't be laughing this
+hard, but I absolutely am.
+
+Holt is about as impressed by this as one might expect.
+
+"What the fuck are you laughing about, Stark?"
+
+"Ma'am," (and I say this while looking her in the eyes, knowing Walker's in
+the room, and it still scares the shit out of me) "everything important that
+they think they lost is in this building. It's just we're the only ones that
+actually have a copy of it."
+
+Holt's eyes widen slightly, which is honestly a good sign.
+
+"Check the storage arrays attaged to the compute cluster. Really."
+
+Her eyes unfocus and I take the opportunity to down my coffee and my talisker
+because I'm pretty confident I'm going to need both for whatever comes next.
+
+^Z
+
+(there's a couple of minutes here where I'm seriously wondering about whether
+I'm going to survive this situation, but let's not dwell on that, ok?)
+
+fg
+
+"Let's go back to the top", Holt says.
+
+"What the fuck did you do, Stark?"
+
+"I noticed an attack against our systems and intercepted and neutralised it."
+
+"No, really, shit for brains, what the fuck did you do?"
+
+"Somebody was trying to trash my laptop, so I ripped everything I could out
+of their systems and dumped it in the storage of the compute cluster here,
+then I burned what was left."
+
+...
+
+She -looks- at me, and frankly that would be the scariest thing that's
+happened to me recently, and yes I mean to include the idiots shooting at me.
+
+Then she smiles, and suddenly it's only the second scariest thing.
+
+"Nicely done, Stark. You're dismissed for the day, go home to your cat."
+
+^Z
+
+(uh ... you know what, I'm really not going to argue)

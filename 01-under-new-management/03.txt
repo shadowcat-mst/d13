@@ -127,3 +127,78 @@ I am, I confess, momentarily tempted to see if there's still a copy of GCHQ's
 data on there but if there's analysis to be done of that, I fully imagine that
 it'll already be in hand, and I'd really rather not have my cluster access
 Holt and Catch Fire a second time.
+
+It's 2pm before Ms. Wei drops by with lunch and another mug of coffee - she's
+clearly busy, and I have just enough time to say thank you before she nods on
+the way out of the door.
+
+At 4pm my internal messenger client lights up.
+
+Holt: Walker's office.
+
+Very well, ma'am.
+
+^Z
+
+(I know the way by now and am largely untroubled by the brusque summons ...
+but I do make sure to bring my coffee)
+
+fg
+
+I knock gently on the door, and Walker's voice calls "come in."
+
+From the tense body language and flushed faces, it seems that Walker, Holt
+and Samson have been disagreeing.
+
+"Sir." Holt's voice is more disapproving than normal. "This does not seem like
+something that we should be involving ourselves with in the first place."
+
+"With respect," Samson comments calmly, "we don't actually know that, and even
+if the problem -is- mundane then the advantages of having GCHQ on side going
+forwards could easily be worth it."
+
+"I don't like putting a fresh agent at risk."
+
+Shit. She's talking about me. I interject.
+
+"Director, might I ask the nature of the potential operation?"
+
+Walker sits up in his chair as Holt and Samson subside, at least for the
+moment.
+
+"You might, Stark. GCHQ have been tracking a Jihadi cell but they've been
+unfortunately resistant to SIGINT penetration, for whatever reason. They'd
+like us to take a crack at it."
+
+"Jihadi, boss?"
+
+Samson responds. "Let us say, Mister Stark, that they're the sort of deeply
+unfortunate fanatical Salafi who have devoted their lives to giving their
+putative religion an ... explosively ... bad name."
+
+"Ah."
+
+"But this particular group appear to be co-ordinating via the internet ... and
+yet every attempt made so far to compromise their command and control systems
+has been a humiliating failure."
+
+"So GCHQ would like us - perhaps me - to see if we can crack into it and find
+out what we can find out?"
+
+"Indeed."
+
+Holt interjects. "This isn't necessarily within our remit though, we don't
+even know if there's supernatural involvement."
+
+"I get it. But this is an operation I can handle from my desk, assuming it
+works out how it's supposed to?"
+
+"Well, yes." Holt is clearly unconvinced.
+
+"Perhaps more importantly, at least to me, this is an opportunity to ruin the
+entire week of a group of people who would be entirely happy to throw me off
+the roof of a five story building given the opportunity."
+
+Holt and Samson blink. Walker merely nods. I drain my coffee.
+
+"So under the circumstances, please do count me in."

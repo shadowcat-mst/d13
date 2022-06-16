@@ -1,0 +1,169 @@
+(something's been nagging at me as I triage the ticket queue and half an hour
+before we're due to report back for planning I finally realise what it is)
+
+fg
+
+[Stark] We were apparently tipped off by captured comm traffic. If we can
+  capture that, why don't we have more detailed intel from the same comms?
+[Holt] *claps* I thought you'd never ask.
+[Stark] Yes, yes, it should've occured to me sooner. Now spill, please?
+[Holt] Taps on MANAP, LONAP and LINX, Stark - if it goes across the UK
+  internet between providers we've probably got keyword matching running
+  against it.
+[Stark] ... and of course we can tap for words, or for phrases, but a full
+  analysis of the datastream in question would be prohibitively expensive
+  unless/until we've already decided that's necessary.
+[Holt] And justifiable compute-wise. There are plenty of other approaches.
+[Stark] Which are?
+[Holt] Think, Stark, and get back to the bloody ticket queue so I don't leave
+  too much of a mess for you to clean up when you get back. Then ask for those
+  approaches at your all too soon for my tastes kickoff meeting.
+[Stark] ... verstanden.
+
+^Z
+
+(I should really have started pondering that already ... fortunately, a shot
+of talisker in my coffee and a half hour of cleaning up is quite conducive to
+the relevant thought processes)
+
+fg
+
+"Welcome back, gentlemen."
+
+Carter is -amazingly- well put together - women's pantsuit, hair longish
+but in a perfectly organised ponytail, smart shoes without heels that are
+clearly intensely practical but still elegant.
+
+"As I know a number of you already know, my name is Melissa Carter.
+
+"When I'm not moonlighting in the field, I'm a department HR specialist."
+
+I twitch ... I remember the first time I heard Walker ask a question of HR
+and what followed ... but that's not exactly her fault, so I suppress it as
+best I can.
+
+"Our other colleagues in this room would be Rob Morgan, ex-paramedic and
+vitakinetic," (the bald dude in the cut-off T-shirt nods acknowledgement),
+"Gareth Bishop, once of the British special forces and an expert driver among
+other skills," (Bishop inclines his head), "and Joseph Stark, software
+consultant, elecrokinetic, and relatively new to us but so far as I hear
+punching rather impressively above his weight for his time with the
+Department."
+
+I blink.
+
+I'd blush, but then I remember how close I came to getting killed, twice,
+during my first encounter with these people, and instead lay my hands flat
+on the table and nod myself.
+
+Morgan and Bishop both make eye contact and nod themselves. There's something
+... collegial ... about the body language. I'm still absolutely the
+Fucking New Guy and they're not trying to hide that opinion, but it feels
+like my adventures so far have bought me ... something. Not sure what yet.
+
+"Pleased to meet all of you." I hope that's enough. I suspect it is given:
+
+"Right, introductions are done with, we have an operation to plan. Hedge
+witch group, threatened by whitenats, assumption there's something far
+worse than a bunch of whitenats coming after them, materiel requests to be
+in tonight and deployment tomorrow, talk to me people."
+
+"Ma'am ... sorry, Ms. Carter ... sorry, I'm not sure which you'd prefer."
+
+"Yes, Stark, I'm aware you're working for Holt. Either is fine by me."
+
+I blink again, though frankly I shouldn't be surprised at this point, it's
+not like Holt's a shrinking violet or anything but obvious to people she
+works with.
+
+"Well, ma'am, we got our initial hint through the department's mass
+surveillance, but if they were talking on interceptable communications
+about such things it seems to me there's a good chance there's a
+(metaphorical) paper trail somewhere that should give us a much better idea
+of what our operational parameters are going to be."
+
+"Huh." (the first word I've ever heard from Morgan)
+
+"Point," (says Carter), "but where and/or how exactly are we supposed to get
+that data at short notice?"
+
+"I'm not entirely sure, but I have some theories as to where we might?"
+
+She nods at me to go ahead.
+
+"Whitenat groups are pretty well known for spectacularly useless opsec and
+even worse vetting of new members in their chatrooms. So if they're capable
+of mustering enough people to be a problem on the ground, they've almost
+certainly got at least one Special Branch member in there, at least one MI5
+agent in there, probably more than one antifa activist, and it wouldn't
+surprise me if GCHQ have a trace on the entire feed from the thing."
+
+"Do you have a suggestion, Mister Stark?"
+
+"That we plan expecting we'll have this information by go time tomorrow,
+because if we can't get it via any of the routes I describe I'll do my best
+to get it myself, and honestly not having that data would very firmly be in
+the 'plan B' category so let's allow for it but prefer not to need to."
+
+"And why, exactly, do you think we'll have this information by then?"
+
+"Because it's clear to me that everybody else involved has experience in the
+field and I don't, so I figure that this side of things is going to be my
+bailiwick and I do have at least a moderate level of confidence in my own
+skills."
+
+"Well, Stark, given your plan B was the only plan we had before now and
+you're not wrong about your lack of field experience, I see no reason not to
+give you your head in this regard.
+
+"Any objections?"
+
+Morgan and Bishop look at each other, and I mentally brace for impact.
+
+"Sounds good to me." Bishop is clearly grinning as he says this - maybe
+because it means I won't be in his way, maybe not, I don't mind either way
+to be honest - and Morgan is clearly comfortable following Bishop's lead.
+
+Carter takes the meeting back over.
+
+"OK, next thing, how do we go in?"
+
+"You said 'Special Branch warrant cards all around' if I recall?"
+
+"Yes, I did, Stark." Her voice drips ... not exactly contempt, but clearly
+a certainty that I've missed something important. "How exactly do you think
+that would go over with a traveler encampment with a bunch of hedge witches
+at its centre?"
+
+... shit. She wasn't wrong.
+
+"Ah. Point. Sorry."
+
+There's a few moments of silence and then Bishop cuts in.
+
+"Suggestion, ma'am - all four of us carry the cards in case, but Stark and
+I go suited and booted and you and Morgan go casual, that way you can make
+the contact and we can wait with the Landy."
+
+"That ... is not actually a bad idea, Bishop. I can't say I'm convinced a
+priori that Stark could dress down even if he tried."
+
+I wince, but honestly not because I think she's wrong.
+
+"Plus," Morgan has a fairly northern accent though this is the first time
+I've heard him say more than a syllable, "if you need to convince them we're
+the real deal having me along is probably less scary than you doing it
+yourself." There's a short pause. "Ma'am."
+
+"Alright, gentlemen, this sounds like a start. Morgan, figure out what first
+aid supplies you're going to want. Bishop, figure out what plan Z supplies
+you think we can get away with. Stark, go try and get us as much intel as
+you can."
+
+She looks at us all, challenging, and all three of us remain silent.
+
+"Dismissed."
+
+We all get going.
+
+^Z

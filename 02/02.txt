@@ -1,0 +1,53 @@
+Requistions:
+
+Stark:
+  - warrant card plus backup
+  - two full suits (with suit bags)
+  - two pairs of non-suit-grade smart shirt and slacks
+  - one decent male-coded single arm bag
+  - one rucksack grade shoulder bag
+  - keys and keychain
+  - department grade wallet
+
+Carter:
+  - warrant card plus backup
+  - one smart pantsuit
+  - two adaptable full length dresses
+  - one pair of jeans and running top
+  - one decent female-coded single arm bag
+  - one rucksack grade shoulder bag
+  - keys and keychain
+  - department grade wallet
+
+Morgan:
+  - warrant card plus backup
+  - as much of the contents of the average ambulance as you can fit into
+    a box in the boot of a landy
+  - two pairs of jeans and a T-shirt with cut-off arms
+  - I think I was supposed to have a suit just in case
+  - a decent sized two shoulder rucksack
+  - keys and keychain
+  - department grade wallet
+
+Bishop:
+  - warrant card plus backup
+  - exceedingly well tailored suit even if you've never seen it before
+  - two full suits (with suit bags)
+  - jeans and a T-shirt at least twice
+  - straight up actual rucking grade rucksack
+  - probably has a department wallet attached but don't argue
+  - has his own box but best not to ask what's in it
+
+Handguns? What do you think we are? Americans?
+
+More seriously, if we ever hit a problem where handguns would be useful,
+it's time to retreat and call back to HQ to deploy people more suitable to
+the problem.
+
+Even more seriously, even if we don't hit that problem, no, we would really
+rather not piss off Five.
+
+Our alliances are essential to our survival and I already annoyed GCHQ last
+week and just because -that- happened to work out well in the end doesn't
+mean taking such a risk again with a major security service is a remotely
+good idea.

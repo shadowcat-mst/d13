@@ -8,6 +8,8 @@ Stark:
   - one rucksack grade shoulder bag
   - keys and keychain
   - department grade wallet
+  - department grade laptop with a SIM card fitted for mobile data
+  - multitool with built in screwdriver set
 
 Carter:
   - warrant card plus backup
@@ -18,36 +20,201 @@ Carter:
   - one rucksack grade shoulder bag
   - keys and keychain
   - department grade wallet
+  - one of whatever Stark asked for computer wise
+  - comprehensive makeup kit and two different colours of hair dye
 
 Morgan:
   - warrant card plus backup
   - as much of the contents of the average ambulance as you can fit into
     a box in the boot of a landy
   - two pairs of jeans and a T-shirt with cut-off arms
-  - I think I was supposed to have a suit just in case
+  - "I think I was supposed to have a suit just in case"
   - a decent sized two shoulder rucksack
   - keys and keychain
   - department grade wallet
+  - fingerprint-proof coated kukri knife with sheath
 
 Bishop:
   - warrant card plus backup
-  - exceedingly well tailored suit even if you've never seen it before
-  - two full suits (with suit bags)
+  - exceedingly well tailored suit "so I don't look like a gorilla"
+  - two suit bags
   - jeans and a T-shirt at least twice
   - straight up actual rucking grade rucksack
   - probably has a department wallet attached but don't argue
   - has his own box but best not to ask what's in it
 
-Handguns? What do you think we are? Americans?
+And before you ask about handguns, what do you think we are? Americans?
 
 More seriously, if we ever hit a problem where handguns would be useful,
 it's time to retreat and call back to HQ to deploy people more suitable to
-the problem.
+the problem. Especially because if our powers aren't sufficient to the task
+we're probably dealing with something powerful enough a handgun isn't going
+to help.
+
+There's a reason Walker has a tendency to refer to them as popguns.
 
 Even more seriously, even if we don't hit that problem, no, we would really
-rather not piss off Five.
+rather not piss off Five - or spend hours explaining what the hell we're
+doing with a warrant card and a weapon to the kind people at special branch
+who let us have the cards in the first place.
 
 Our alliances are essential to our survival and I already annoyed GCHQ last
 week and just because -that- happened to work out well in the end doesn't
 mean taking such a risk again with a major security service is a remotely
 good idea.
+
+Intelligence:
+
+"What have you got for us, Stark?"
+
+"Quite a bit, ma'am."
+
+"Well, get on with it. I've ordered us chinese but we're all going to want
+an early night tonight, I suspect."
+
+"Before I get into the details, is there any reason we can't set out earlier
+than tomorrow?"
+
+Carter fixes me with a look.
+
+"And why exactly would that be a relevant question, Stark?"
+
+"Because if I'm right and we set out tomorrow evening as planned, there's
+a good chance we'll arrive too late."
+
+Carter blinks, holds up a hand to forestall further comment for the moment,
+and closes her eyes.
+
+This is, frankly, really quite creepy. On the other hand, I -did- already
+pretty much know that "HR specialist" in this outfit meant telepath in
+practice, and a prompt answer to my question is probably an excellent idea.
+
+Around thirty seconds later, Carter re-opens her eyes.
+
+"Make your case but if it's convincing, yes, Samson agrees we can leave at
+whatever time tomorrow I think is best."
+
+"Appreciated."
+
+Now I just have to distill four hours of frantic research with a little
+assistance from the Department's contacts, Holt's paranoia, and a touch of
+electrickery into something that will make sense.
+
+I stand up and walk to the front of the conference room - I didn't have time
+to make slides but I'm much more comfortable addressing people stood at the
+head of the room, even if I only have an audience of three in this case.
+
+"Firstly, while I'm aware we were already pretty sure, the group in question
+is almost certainly hedge witches."
+
+"And you know this how?"
+
+"Holt pulled the last few months' appointment data from the local NHS trust,
+and while everything else is basically steady, GP appointment requests for
+minor ailments dipped noticeably in the patient population in working class
+areas."
+
+"So?" ... Carter is a non-trivial audience.
+
+"I am reliably informed that's a standard pattern - the middle class and
+higher prefer their holistic medicine from somebody with a fancy office and
+a commensurate price sheet, but when a hedge witch group rolls into town
+the less pretentious people are more than happy to take their minor ailments
+there - if nothing else you get a longer audience and some sympathy along
+with your mostly pointless treatment, and NHS general practitioners just
+don't have the time for that these days."
+
+Everybody nods at that, so I continue.
+
+"Secondly, yes there appear to be a couple of Special Branch lads in the
+organisation somewhere, but they're about as tech savvy as any other british
+copper so they're not really privy to the planning side.
+
+"Fortunately, their main chatroom does contain at least one OSINT antifa
+infiltrator who's streaming it in real time back to their organisation's
+servers. Which we now have access to."
+
+"How did you get them to share?" Morgan sounds genuinely curious. I grin.
+
+"I didn't. But their logs are streaming merrily away to a sacrificial
+server out on the internet set up for that purpose nonetheless - shouldn't
+be traceable to us and we can trivially arrange for it to self destruct once
+we're done with it."
+
+Carter maintains a poker face but Bishop and Morgan both crack the barest
+hints of a smile.
+
+"Chatter from there says they're going to go in shortly after sundown
+tomorrow - but they've switched to phone to phone encrypted communications
+for the final details so unless one of the Special Branch lads gets invited
+I can't tell you where the rendezvous point will be in advance."
+
+Carter looks like she's about to ask another pointed question but this time
+it's my turn to hold a hand up.
+
+"On the upside, because these people are idiots, all the services they're
+using require registration by mobile phone number. So I have another
+sacrificial temporary server that's receiving real time logs of their
+phones' locations and notifications any time one of them sends encrypted
+data to another of them - courtesy of the lovely people over at GCHQ.
+
+"The trick's going to be to spot them congregating and then spot when they
+get on the move - we're still going to be stuck being more reactive than
+anybody might like but if they travel the last mile to their target on foot
+then I can at least give us -some- warning."
+
+Bishop chimes in: "There's only really one viable road to that camp. Given
+you and I aren't expecting to go up there anyway, I'm sure we can find a
+lovely and scenic spot to park.
+
+"Just if we hear vehicles coming up that road, put your seat belt on, ok
+Stark? Department Land Rovers are really quite impressively robust but
+relatively speaking you and I most certainly aren't."
+
+I crack a grin at his deadpan delivery of what's clearly an intent to ram
+people off the road if it turns out to be convenient, and so does Morgan.
+
+"I think that about covers what I've learned so far - I would hope I can
+provide some sort of access to this data that's actually useful to the
+rest of you but I didn't have time to do anything except process it raw
+so far. Assuming I can, it's going to be a bit tight, so expect me to
+be finishing it off on the drive down."
+
+"That's quite alright, Stark, though I'd like access to the chatroom
+traffic as is to review for tactical planning."
+
+"Should already be available to all four of our Department accounts. Unless
+Holt made a mistake, which ..."
+
+I don't have to finish that particular sentence with this audience.
+
+Before anybody says anything else, there's a knock at the door, and I go
+and open it to find Ms. Wei holding several large bags that are emitting
+quite spectacular scents of food.
+
+I place my forearm across my waist and give her the slightest of bows, and
+she grins hugely and hands me the bags, then as is her wont departs without
+a word.
+
+"Right. Stark. Let's get that unpacked and get some food into us, it's seven
+o'clock already and since it sounds to me like we -are- leaving early then
+my instructions about getting an early night go double. Eight AM here
+tomorrow, I think, that'll give us four hours for tactical planning and we
+can still get started at midday."
+
+The other three of us give Carter our most restrained kicked puppy looks at
+the idea of eight in the morning, but much to our mutual aggravation she
+once again has a point.
+
+I start pulling bags open and Carter starts spreading the food out across
+the conference room table for us (the fact she's doing it herself marks her
+in my mind as a team lead, not a manager, at least).
+
+Then we all settle in to eat.
+
+^Z
+
+(and now finally we have a moment for what Carter called 'the pleasantries',
+and we all chat idly as we work our way through our preferred subset of the
+feast before us, then it's off to our respective homes for the mandated
+early night)

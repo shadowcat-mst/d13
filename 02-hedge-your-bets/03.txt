@@ -1,0 +1,197 @@
+At midday, we duly get going.
+
+I was sat in the conference room while the tactical planning was going on,
+but I can't say I paid a lot of attention, the first hour or so because an
+8am start required a *lot* of caffeine for my brain to start firing on more
+than one cylinder (thank you Ms. Wei) and the rest because I was trying to
+figure out how to turn my sacrificial VM's mobile phone geodata into something
+people who weren't me could interpret.
+
+The trick is to plot it on a map in real time, dots where if you mouse over
+or tap on them they come up with a contact card of whatever we know about that
+phone (which is variable.)
+
+Then you set gates for movement. Specifically movement of multiple contacts,
+if a cluster of those contacts within a specific area starts moving in the
+same direction at the same time, an alert gets generated.
+
+It's going to be janky as fuck and probably also lossy as fuck because I
+really don't have that much time, I'm writing the movement gating code in
+the Landy on the way down but it'll be 100% better than nothing and I'll
+be monitoring the raw data at all times to compensate for whatever stupid
+mistakes I've inevitably made.
+
+Carter is sat in the front with Bishop, as is her right, and Morgan is
+apparently already well conscious that bothering me would not be remotely
+useful and just looks out the window and stays the fuck quiet, which I very
+much appreciate.
+
+I get a horrible hack that will -probably- work put together and the details
+uploaded to the department internal network a handful of minutes before we
+get to our destination.
+
+Emphasis on probably.
+
+"Grab this URL, everybody, it's the best you're going to get for the moment,
+but -please- listen to me because this is an expedient field hack and I fully
+expect a stupid mistake of mine to break it at the least helpful moment."
+
+Morgan nods and sets his phone up. Carter sets hers up, and then looks over
+at Bishop, who nods, and pulls his phone from the dashboard to do the same
+with it while he keeps driving.
+
+^Z
+
+(still not fond of the risk of life and limb but these are exceedingly
+sensible colleagues)
+
+fg
+
+We park up three quarters of the way up the path to the hedge witch camp -
+Bishop and I are wearing suits and that's just not going to go down well so
+we're staying here.
+
+Carter and Morgan exit the vehicle, and then before they start walking she
+says "gentlemen, please relax for a moment."
+
+This is not an entirely comfortable request coming from a telepath, but in
+for a penny, in for a pound, so I do my best.
+
+A few seconds later, my vision swims, I feel the edge of a headache, I wonder
+if I'm going to vomit ... and then it clears and I can see through her eyes
+as well as my own.
+
+"First time, Stark?"
+
+I think that was Morgan, though I'm sufficiently disoriented I'm not sure.
+
+"Yes, fucking hell, what the fuck is this?!"
+
+"Link. Need you to know what's going on. I know it's uncomfortable right now
+but you'll get used to it."
+
+(that one was definitely Carter, she doesn't exactly sound sympathetic but
+she does sound like she's aware of the discombobulation involved at least)
+
+"OK, Morgan, let's walk."
+
+And they head up the path towards the camp.
+
+^Z
+
+(that was, in hindsight, a smart idea, because by the time they get to the
+camp my head's stopped swimming ... though the sympathetic looks from Bishop
+as I adjusted absolutely helped)
+
+fg
+
+"Who the fuck are you?"
+
+Apparently the camp's point guards aren't about to beat about the bush.
+
+"You're going to be attacked by violent white nationalists in" *Carter checks
+her watch* "about three hours. We're the cavalry."
+
+"What?"
+
+"Don't worry, gentlemen, I didn't expect you to believe us. Morgan?"
+
+That's when Morgan pulls out a bigass knife (not, btw, the kukri, apparently
+he has a personal big knife as well) and slashes right down his exposed
+forearm.
+
+They stare at the amount of blood - and so would I have done if I was there -
+and then he -grins- at them and the wound ... heals.
+
+"So, gentleman, would you be interested in letting us help?"
+
+One of the guards runs back into the main camp to get further guidance.
+
+^Z
+
+(oh shit, that's what Morgan meant about being convincing ... nicely done)
+
+fg
+
+Turns out that was just convincing enough and they get let into the camp.
+
+"There is an attack coming. We came here because we want it to fail."
+
+"He proved his credentials, what about yours?" responds one of the elders.
+
+Before she can say anything, Morgan responds "And I'm vouching for her.
+Let's not, we don't honestly have the time."
+
+Some looks are exchanged and the point is accepted.
+
+She checks her phone and I already know, the arseholes are massing to one
+side of the camp. Time to get started.
+
+"Gentlemen, the attack is going to come from -that- direction, let's get as
+many of your vehicles as possible facing that way."
+
+"What?"
+
+"Look, am I going to have to duel one of you to make the point? Because I
+don't want to, I want to deal with them. But trust me, this will work."
+
+(Morgan is remarkably relaxed about this statement, I'm not sure if it's
+because he's sure he'll win or because he thinks it would be fun to try,
+but either way they listen)
+
+Vehicles are duly re-arranged.
+
+A half hour later, night having fallen, they charge.
+
+And as they get half way up the hill to the camp the teenagers in each of
+the vehicles turn their headlights on full beam and now everybody charging
+upwards has no night vision anymore.
+
+And -now- the defenders charge.
+
+^Z
+
+(this all takes place in mostly darkness but I'll describe it as best I can)
+
+fg
+
+This really isn't a fair fight.
+
+Then again, it wasn't intended to be.
+
+The aggressors are half blinded, the other side are defending their homes,
+and they're being led into battle by Morgan.
+
+I'd say "an angry Morgan" but I'm genuinely not sure whether he's actually
+angry or he's just enjoying himself ... but I'm sure it's all the same to
+them.
+
+He has what I later learn is a bowie knife in one hand and a kukri in the
+other.
+
+Stab up the under of the ribcage of one idiot, pull it out before it wedges,
+then swing the kukri to slash the throat of the next one.
+
+I am honestly a little scared of just how much he's enjoying himself, but
+he's in the lead of the hedge witch camp with the rest of the adults
+following him and oh -my- did that whitenat group end up regretting their
+life choices in terms of the sponsors they'd been dispatched by.
+
+It's both spectacular and horrible, and I respect Carter's ability to watch
+the entire thing with equanimity. But I am not Carter.
+
+^Z
+
+(and when it's done, I get out of the Landy and vomit substantially, with
+Bishop just leaving me be to deal with that and no judgement and offering
+me a bottle of water when I get back in)
+
+fg
+
+"Bishop, Stark, we -definitely- need to get these people out of here, go
+find us transport."
+
+Whether the most urgent threat model is local police attention due to the
+amount of blood on the ground now, or a second such attack ... fair.
+
+We go.

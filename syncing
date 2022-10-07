@@ -1,0 +1,13 @@
+export D13DIR=/var/www/www.trout.me.uk/d13
+
+rm -rf $D13DIR;
+mkdir $D13DIR;
+
+copydir () {
+  mkdir $D13DIR/$1
+  cp -a $1*/*.txt $D13DIR/$1/
+}
+
+copydir 00
+copydir 01
+copydir 02

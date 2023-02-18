@@ -22,8 +22,8 @@ little bit too much cheerful for this early in the morning.
 "Here's a mug, the Director will be with you shortly"
 
 Happily, 'shortly' is sufficient to decrease the amount of blood in my
-caffeinestream so I'm a bit more capable of conversation by the time Walker
-show up.
+caffeinestream enough that I'm a bit more capable of conversation by the time
+Walker shows up.
 
 "Stark"
 
@@ -43,8 +43,8 @@ the machine you were using as a scratch monkey for your analysis work."
 
 I blink.
 
-"Ok, look, Stark, I am very much aware this isn't entirely your area, but
-while I know the difference between sudo and SQL my current career rather
+"Ok, look, Stark, I am very much aware this isn't exactly your area, but
+while I know the difference between sudo and SQL, my current career rather
 distracted me from my old one, my specialist is overseas, and this is
 probably going to turn out to be annoyingly time critical."
 
@@ -53,7 +53,7 @@ probably going to turn out to be annoyingly time critical."
 Walker grimaces.
 
 "We are not a substantive organisation and I've not previously been in a
-situation where something time critical came up and I didn't have my
+situation where something time critical came up and I didn't have my in house
 specialist to hand. I have people vetting companies we could probably send
 a job like this to but frankly I completely failed to plan for this and right
 now you're the least worst option to hand."
@@ -117,7 +117,7 @@ Ok, ok, I can explain this, but I'm not going to enjoy doing it.
 
 I stare at the screen, desperate for any way to procrastinate the required
 "yes, I tried, but I did not in fact succeed" conversation, and realise I
-can buy myself at least two minutes by checking in with my job from earlier.
+can buy myself at least two minutes by checking in with my query from earlier.
 
 ... wait ... did I actually get this lucky? ...
 
@@ -127,7 +127,7 @@ PAYDIRT.
 
 ^Z
 
-(I may have been sufficiently hyped talking to the receiptionist that she
+(I may have been sufficiently hyped talking to the receptionist that she
 suspected I'd had more coffee than was strictly good for me)
 
 fg
